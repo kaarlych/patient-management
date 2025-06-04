@@ -1,4 +1,4 @@
-package com.pm.patientservice.dto;
+package com.pm.patientservice.dto.response;
 
 import lombok.Builder;
 import lombok.Getter;
